@@ -1,7 +1,5 @@
 package DoublyLinkedList;
 
-import javafx.scene.Node;
-
 public class DoublyLinkedList {
     private Node head;
     private Node tail;
